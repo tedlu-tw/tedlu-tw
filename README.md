@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-I am Ted Lu, a 13 yo Biomed engineering/imaging researcher, web dev, soft dev, hard dev, saxophonist, composer, photographer, drone player and a multimedia designer from Taiwan, currently self-studying Spanish, network engineering and neuroradiology.
+I am Ted Lu, a 13 year-old biomedical engineering/imaging researcher, web developer, software developer, hardware developer, saxophonist, composer, photographer, drone enthusiast and a multimedia designer from Taiwan, currently self-studying Spanish, network engineering, neuroradiology and playing with Leetcode.
 
 #### Lifestyle 🏖
 Code for the rest of my life :D
