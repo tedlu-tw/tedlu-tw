@@ -10,6 +10,8 @@ Code for the rest of my life :D
 - Zhonghe Elementary School
 
 #### Cool Experiences 🤩
+- Podcast Producer/Script Writer of KaoBei Engineer (03/2021 - Present)
+  A community for engineers to post anonymously
 - Founder/CEO of FirSTEM (06/2020 ~ Present)
   An international organization about STEM for students and educators
 - Member of OpenToAll (03/2020 ~ Present)
