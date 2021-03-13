@@ -27,9 +27,12 @@ Code for the rest of my life :D
 - Github: [https://github.com/Sax-Ted](https://github.com/Sax-Ted)
 - Leetcode: [https://leetcode.com/Saxode/](https://leetcode.com/Saxode/)
 
-Ways to know more about me 📬
+#### Ways to know more about me 📬
 - Personal Site: [https://www.sax-ted.me/](https://www.sax-ted.me/)
 - CV: [https://www.sax-ted.me/assets/other/CV.pdf](https://www.sax-ted.me/assets/other/CV.pdf)
 - Email: [ted.lu.tw@gmail.com](mailto:ted.lu.tw@gmail.com)
 - Medium: [https://saxode.medium.com/](https://saxode.medium.com/)
 - Twitter: https://twitter.com/saxode0111
+
+#### My stats 💎
+![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=Sax-Ted&show_icons=true&hide_border=true&theme=dark)
