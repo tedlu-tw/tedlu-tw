@@ -28,8 +28,8 @@ Code for the rest of my life :D
 - Leetcode: [https://leetcode.com/Saxode/](https://leetcode.com/Saxode/)
 
 #### Ways to know more about me 📬
-- Personal Site: [https://www.sax-ted.me/](https://www.sax-ted.me/)
-- CV: [https://www.sax-ted.me/assets/other/CV.pdf](https://www.sax-ted.me/assets/other/CV.pdf)
+- Personal Site: [https://sax-ted.github.io/](https://sax-ted.github.io/)
+- CV: [https://sax-ted.github.io/assets/other/CV.pdf](https://sax-ted.github.io/assets/other/CV.pdf)
 - Email: [ted.lu.tw@gmail.com](mailto:ted.lu.tw@gmail.com)
 - Medium: [https://saxode.medium.com/](https://saxode.medium.com/)
 - Twitter: https://twitter.com/saxode0111
