@@ -10,6 +10,10 @@ Code for the rest of my life :D
 - Zhonghe Elementary School
 
 #### Cool Experiences 🤩
+- Founder of Taiwan Open Education Develop Unit (06/2021 - Present)
+  A team which cares about open education resources
+- Streamer of COSCUP 2021 Streaming Team (07/2021 - 08/2021)
+  Conference for Open Source Coders, Users and Promoters
 - Podcast Producer/Script Writer of KaoBei Engineer (03/2021 - Present)
   A community for engineers to post anonymously
 - Founder/CEO of FirSTEM (06/2020 ~ Present)
@@ -20,8 +24,8 @@ Code for the rest of my life :D
   A local multimedia designing lab
 - Leader of Pacific Jazz (03/2020 ~ 06/2020)
   A jazz band which includes members from Taiwan and United States
-- Founder of Global Security (01/2020 ~ 05/2020)
-  A tiny CTF team ranked 80 in TJCTF
+- Founder of GlobSec (01/2020 ~ 05/2020)
+  A global CTF team
 
 #### Programming 👾
 - Github: [https://github.com/Sax-Ted](https://github.com/Sax-Ted)
