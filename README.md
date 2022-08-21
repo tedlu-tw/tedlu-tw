@@ -4,9 +4,6 @@ I'm a 14-year-old civic hacker from Taipei, Taiwan, working with g0v.tw and Taiw
 
 Also a medical imaging researcher, that focus on the deep learning neural networks' development of neuroimage analysis and diasnosis. Currently working on a new method for analyzing the lesions of multiple sclerosis. I'm self studying neuroscience and neurology, preparing for my aim as becoming a neurology researcher.
 
-#### Lifestyle 🏖
-Code and learn for the rest of my life :D
-
 #### Languages
 - Taiwanese: Native
 - Taiwanese Mandarin: Native
@@ -19,27 +16,17 @@ Code and learn for the rest of my life :D
 - Zhonghe Elementary School
 
 #### Cool Experiences 🤩
-- Founder/data engineer of Taiwan Open Education Develop Unit (06/2021 - Present)
-
-  A team which cares about open education resources
+- Founder/data engineer of [Taiwan Open Education Develop Unit](https://toedu.g0v.tw) (06/2021 - Present)
+- Community contributor of [g0v](https://g0v.tw) (05/2021 - Present)
+- Technical advisor of [Lipoic](https://lipoic.org/) (05/2022 - Present)
 - Captain of Aby$s (05/2022 - Present)
-
-  A CTF team from Taiwan.
-- Streamer of COSCUP 2021 Streaming Team (07/2021 - 08/2021)
-
-  Conference for Open Source Coders, Users and Promoters
-- Writer/Podcast producer of KaoBei Engineer (03/2021 - Present)
- 
-  A community for engineers to post anonymously
-- M.C. Multimedia Design Lab (07/2020 ~ 09/2020)
-
-  A local multimedia designing lab
+- Streamer of [COSCUP 2021](https://coscup.org/2021/) Streaming Team (07/2021 - 08/2021)
+- Writer/podcast producer of [Init Kaobei Engineer](https://init.engineer/) (03/2021 - Present)
+- Web developer of M.C. Multimedia Design Lab (07/2020 ~ 09/2020)
 - Founder of GlobSec (01/2020 ~ 05/2020)
 
-  A global CTF team
-
 #### Programming 👾
-- Github: [https://github.com/Sax-Ted](https://github.com/Sax-Ted)
+- GitHub: [https://github.com/Sax-Ted](https://github.com/Sax-Ted)
 - Leetcode: [https://leetcode.com/Saxode/](https://leetcode.com/Saxode/)
 
 #### Ways to know more about me 📬
