@@ -21,7 +21,7 @@ During my spare time, I also participate in several open source communities such
 - Founder/Data Engineer of [Taiwan Open Education Develop Unit](https://toedu.g0v.tw) (06/2021 - Present)
 - Community contributor of [g0v](https://g0v.tw) (05/2021 - Present)
 - Streamer of [COSCUP 2021](https://coscup.org/2021/) Streaming Team (07/2021 - 08/2021)
-- Writer/podcast producer of [Init Kaobei Engineer](https://init.engineer/) (03/2021 - Present)
+- Writer/podcast producer of [Init Kaobei Engineer](https://init.engineer/) (03/2021 - 08/2021)
 - Technical advisor of several open source projects
 
 #### Contact
