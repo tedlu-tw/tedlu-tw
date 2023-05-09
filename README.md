@@ -25,7 +25,7 @@ During my spare time, I also participate in several open source communities such
 - Technical advisor of several open source projects
 
 #### Contact
-- Website: [https://sax-ted.github.io](https://sax-ted.github.io)
+- Website: [https://tedlu-tw.github.io](https://tedlu-tw.github.io)
 - Email: [ted.lu.tw@gmail.com](mailto:ted.lu.tw@gmail.com)
 - Instagram: [@ted.lu.tw](https://instagram.com/ted.lu.tw)
 - Twitter: [@ted_lu_tw](https://twitter.com/ted_lu_tw)
@@ -33,4 +33,4 @@ During my spare time, I also participate in several open source communities such
 #### Blog
 You can find my articles in [my Medium page](https://ted-lu.medium.com/). 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Sax-Ted&show_icons=true&hide_border=true&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=tedlu-tw&show_icons=true&hide_border=true&theme=dark)
