@@ -17,6 +17,7 @@ During my spare time, I also participate in several open source communities such
 
 #### Experiences
 
+- Student of Institute of Biomedical Science, Academia Sinica (06/2023 - Present)
 - Project Manager of [CourseAPI](https://courseapi.org) (07/2021 - Present)
 - Founder/Data Engineer of [Taiwan Open Education Develop Unit](https://toedu.g0v.tw) (06/2021 - Present)
 - Community contributor of [g0v](https://g0v.tw) (05/2021 - Present)
@@ -24,9 +25,16 @@ During my spare time, I also participate in several open source communities such
 - Writer/podcast producer of [Init Kaobei Engineer](https://init.engineer/) (03/2021 - 08/2021)
 - Technical advisor of several open source projects
 
+#### Education
+
+- Taipei Digital Experimental High School (T-school) | 2023-2026 (expected)
+- New Taipei Municipal Yonghe Junior High School | 2020-2023
+
 #### Contact
+
 - Website: [https://tedlu-tw.github.io](https://tedlu-tw.github.io)
 - Email: [ted.lu.tw@gmail.com](mailto:ted.lu.tw@gmail.com)
+- LinkedIn: [@hao-tian-lu](https://www.linkedin.com/in/hao-tian-lu/)
 - Instagram: [@ted.lu.tw](https://instagram.com/ted.lu.tw)
 - Twitter: [@ted_lu_tw](https://twitter.com/ted_lu_tw)
 
