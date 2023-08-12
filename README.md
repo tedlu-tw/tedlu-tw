@@ -40,5 +40,3 @@ During my spare time, I also participate in several open source communities such
 
 #### Blog
 You can find my articles in [my Medium page](https://ted-lu.medium.com/). 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=tedlu-tw&show_icons=true&hide_border=true&theme=dark)
