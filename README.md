@@ -8,14 +8,14 @@ I have quite a few experiences in hardware development, including sensor enginee
 
 During my spare time, I also participate in several open source communities such as g0v.tw, CourseAPI, Sch001, etc., where I bring the ability of issue analysis and project management into various open source projects.
 
-#### Languages
+### Languages
 
 - Taiwanese: Native proficiency
 - Mandarin: Native proficiency
 - English: Professional working proficiency (TOEIC 800, 2019)
 - Spanish: Limited working proficiency
 
-#### Experiences
+### Experiences
 
 - **Research Student | Institute of Biomedical Science (IBMS), Academia Sinica | Jun 2023 - Present**
     - Proficiently conducted data science and in-depth analysis of magnetic resonance imaging (MRI) data, with a specific focus on brain connectome research.
@@ -31,7 +31,7 @@ During my spare time, I also participate in several open source communities such
     - Conducted regular maintenance to ensure the CourseAPI platform's optimal performance and data accuracy.
     - Conducted in-depth analysis of issues related to open educational resources and open source education.
  
-#### Voluntary Experiences
+### Voluntary Experiences
 
 - Lecturer & Community Volunteer | g0v Taiwan Community | May 2021 - Present
 - General Coordinator & Co-founder | CISCON (Computer Informatics Students Conference) | April 2023 - Present
@@ -40,12 +40,12 @@ During my spare time, I also participate in several open source communities such
 - Conference Streaming | COSCUP (Conference for Open Source Coders, Users & Promoters) | 2021
 - Podcast Producer | Init KaoBei Engineer | October 2021 - May 2022
 
-#### Education
+### Education
 
 - Taipei Digital Experimental High School (T-school) | 2023-2026 (expected)
 - New Taipei Municipal Yonghe Junior High School | 2020-2023
 
-#### Contact
+### Contact
 
 - Website: [https://tedlu-tw.github.io](https://tedlu-tw.github.io)
 - Email: [ted.lu.tw@gmail.com](mailto:ted.lu.tw@gmail.com)
@@ -53,5 +53,5 @@ During my spare time, I also participate in several open source communities such
 - Instagram: [@ted.lu.tw](https://instagram.com/ted.lu.tw)
 - Twitter: [@ted_lu_tw](https://twitter.com/ted_lu_tw)
 
-#### Blog
+### Blog
 You can find my articles in [my Medium page](https://ted-lu.medium.com/). 
