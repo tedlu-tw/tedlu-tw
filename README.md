@@ -1,29 +1,44 @@
 ### Hi there 👋
 ---
-I am Ted Lu, a 15-year-old student with high interest in computer science and biomedicine from New Taipei, Taiwan. I am looking for opportunities to explore more on medical informatics and computer vision. 
+I am Ted Lu, a 15-year-old student with high interest in computer science and biomedicine from New Taipei, Taiwan. I am looking for opportunities to explore more on medical informatics and computer vision.
 
-With the high ability of self learning, I've practiced several skills and abilities among the field of computer informatics., and participated in several research projects. My recent studies focus on medical image analysis, imaging modalities including MRI, CT, EEG, X-ray, OCT, etc., and diseases such as brain tumor, multiple sclerosis, schizophrenia, Alzheimer's and more. 
+With the high ability of self learning, I've practiced several skills and abilities among the field of computer informatics., and participated in several research projects. My recent studies focus on medical image analysis, imaging modalities including MRI, CT, EEG, X-ray, OCT, etc., and diseases such as brain tumor, multiple sclerosis, schizophrenia, Alzheimer's and more.
 
 I have quite a few experiences in hardware development, including sensor engineering and wireless communication. My studies during 2018-2020 were focused on ESP8266/ESP32 communication frameworks, edge computing system optimization, etc. The experience enables me with the ability to use various programming languages and systems such as Python, C/C++, JavaScript, Linux and DBMS, etc.
 
-During my spare time, I also participate in several open source communities such as g0v.tw, CourseAPI, Sch001, etc., where I bring the ability of issue analysis and project management into various open source projects. 
+During my spare time, I also participate in several open source communities such as g0v.tw, CourseAPI, Sch001, etc., where I bring the ability of issue analysis and project management into various open source projects.
 
 #### Languages
 
-- Taiwanese: Native
-- Mandarin: Native
-- English: Fluent (TOEIC 800, 2019)
-- Spanish: Intermediate
+- Taiwanese: Native proficiency
+- Mandarin: Native proficiency
+- English: Professional working proficiency (TOEIC 800, 2019)
+- Spanish: Limited working proficiency
 
 #### Experiences
 
-- Student of Institute of Biomedical Science, Academia Sinica (06/2023 - Present)
-- Project Manager of [CourseAPI](https://courseapi.org) (07/2021 - Present)
-- Founder/Data Engineer of [Taiwan Open Education Develop Unit](https://toedu.g0v.tw) (06/2021 - Present)
-- Community contributor of [g0v](https://g0v.tw) (05/2021 - Present)
-- Streamer of [COSCUP 2021](https://coscup.org/2021/) Streaming Team (07/2021 - 08/2021)
-- Writer/podcast producer of [Init Kaobei Engineer](https://init.engineer/) (03/2021 - 08/2021)
-- Technical advisor of several open source projects
+- **Research Student | Institute of Biomedical Science (IBMS), Academia Sinica | Jun 2023 - Present**
+    - Proficiently conducted data science and in-depth analysis of magnetic resonance imaging (MRI) data, with a specific focus on brain connectome research.
+    - Development of cutting-edge analysis software, and cloud computing infrastructure deployment to optimize data storage and accessibility.
+    - Actively engaged in advanced studies encompassing neuroimaging, biomedical sciences, and neurosciences, consistently staying abreast of the latest research and breakthroughs in these fields.
+- **Research Assistant | Department of Computer Science & Information Engineering, National Taiwan University (NTU CSIE) | Sep 2022 - Present**
+    - Actively participated in research projects upon developing advanced algorithms for medical image analysis, specializing in neuroimaging scans. 
+    -  Conducted experiments to optimize machine learning and deep learning models, notably improving accuracy and efficiency through techniques such as hyperparameter tuning, model design, and data augmentation. 
+    - Proficiently preprocessed and augmented medical imaging datasets to bolster model robustness, employing methods such as image normalization, noise reduction, and data augmentation to ensure high-quality input data. 
+- **Founder & Data Engineer | [Taiwan Open Education Develop Unit](https://toedu.g0v.tw) | Jun 2021 - Present**
+    - Led a team to successfully develop and launch the CourseAPI platform, streamlining course information and accessibility.
+    - Developed efficient data scraper tools, automating data collection and analysis processes.
+    - Conducted regular maintenance to ensure the CourseAPI platform's optimal performance and data accuracy.
+    - Conducted in-depth analysis of issues related to open educational resources and open source education.
+ 
+#### Voluntary Experiences
+
+- Lecturer & Community Volunteer | g0v Taiwan Community | May 2021 - Present
+- General Coordinator & Co-founder | CISCON (Computer Informatics Students Conference) | April 2023 - Present
+- Agenda Team | HITCON (Hacks in Taiwan Conference) | 2023
+- Coordinator | COSCUP Open Education Track | 2023
+- Conference Streaming | COSCUP (Conference for Open Source Coders, Users & Promoters) | 2021
+- Podcast Producer | Init KaoBei Engineer | October 2021 - May 2022
 
 #### Education
 
