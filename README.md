@@ -17,6 +17,10 @@ During my spare time, I also participate in several open source communities such
 
 ### Experiences
 
+- **Scientist Intern | Appier Inc. | Nov 2023 - Present**
+    - Re-implementation of generative AI methods and imaging analysis algorithms. 
+    - Conducted in-depth research to assess the feasibility of integrating re-implemented methods into marketing products. 
+    - Collaborate with data scientist team to develop proof-of-concept demos, demonstrating the potential of the re-implemented methods as valuable additions to the company's marketing services.
 - **Research Student | Institute of Biomedical Science (IBMS), Academia Sinica | Jun 2023 - Present**
     - Proficiently conducted data science and in-depth analysis of magnetic resonance imaging (MRI) data, with a specific focus on brain connectome research.
     - Development of cutting-edge analysis software, and cloud computing infrastructure deployment to optimize data storage and accessibility.
