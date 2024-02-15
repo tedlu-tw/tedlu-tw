@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-I am Ted Lu, a 15-year-old student with high interest in computer science and biomedicine from New Taipei, Taiwan. I am looking for opportunities to explore more on medical informatics and computer vision.
+I am Ted Lu, a 16-year-old student with high interest in computer science and biomedicine from New Taipei, Taiwan. I am looking for opportunities to explore more on medical informatics and computer vision.
 
 With the high ability of self learning, I've practiced several skills and abilities among the field of computer informatics., and participated in several research projects. My recent studies focus on medical image analysis, imaging modalities including MRI, CT, EEG, X-ray, OCT, etc., and diseases such as brain tumor, multiple sclerosis, schizophrenia, Alzheimer's and more.
 
