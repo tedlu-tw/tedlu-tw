@@ -1,10 +1,10 @@
 ### Hi there 👋
 ---
-I am Ted Lu, a 16-year-old student with high interest in computer science and biomedicine from New Taipei, Taiwan. I am looking for opportunities to explore more on medical informatics and computer vision.
+I am Ted Lu, a 16-year-old student with high interest in data science, medical science and neuroscience located in New Taipei, Taiwan. I am looking for opportunities to explore more on medical informatics and computer vision. 
 
-With the high ability of self learning, I've practiced several skills and abilities among the field of computer informatics., and participated in several research projects. My recent studies focus on medical image analysis, imaging modalities including MRI, CT, EEG, X-ray, OCT, etc., and diseases such as brain tumor, multiple sclerosis, schizophrenia, Alzheimer's and more.
+With the high ability of self learning, I've practiced several skills and abilities among the field of medical informatics., and participated in several research projects. My recent studies focus on methodology development of medical image analysis and imaging studies of neurodevelopmental and neurodegenerative disorders, while I’ve worked with different imaging modalities including MRI, CT, EEG, X-ray, OCT, etc., and diseases such as glioma, multiple sclerosis, schizophrenia, Alzheimer’s, Huntington’s and more. 
 
-I have quite a few experiences in hardware development, including sensor engineering and wireless communication. My studies during 2018-2020 were focused on ESP8266/ESP32 communication frameworks, edge computing system optimization, etc. The experience enables me with the ability to use various programming languages and systems such as Python, C/C++, JavaScript, Linux and DBMS, etc.
+I have quite a few experiences in hardware development, including sensor engineering and wireless communication. My studies during 2018-2020 were focused on ESP8266/ESP32 communication framework enhancement, edge computing system optimization, etc. The experience enables me with the ability to use various programming languages and systems such as Python, C/C++, JavaScript, Linux and DBMS. 
 
 During my spare time, I also participate in several open source communities such as g0v.tw, CourseAPI, Sch001, etc., where I bring the ability of issue analysis and project management into various open source projects.
 
@@ -47,7 +47,13 @@ During my spare time, I also participate in several open source communities such
 ### Education
 
 - Taipei Digital Experimental High School (T-school) | 2023-2026 (expected)
+    - Previous Semester Overall GPA: 4.3 / 4.3
+    - Student Representative of Student Union
 - New Taipei Municipal Yonghe Junior High School | 2020-2023
+    - Graduation Overall GPA: 4.0 / 4.3
+    - Valedictorian of 53rd graduates with highest achievement.
+    - Class president of Gifted and Talented Science program.
+    - Elected as the school president for the academic year 2023.
 
 ### Contact
 
