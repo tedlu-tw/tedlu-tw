@@ -17,6 +17,9 @@ During my spare time, I also participate in several open source communities such
 
 ### Experiences
 
+- **Committee Member | Youth Advisory Committee, K-12 Education Administration | Ministry of Education | Apr 2024 - Present**
+    - Focusing on systematic status and issues of special education, especially gifted and talented education system.
+    - Survey on student self-organizing scenarios and communities to analyze and improve the environment on democratization of education. 
 - **Scientist Intern | Appier Inc. | Nov 2023 - Present**
     - Re-implementation of generative AI methods and imaging analysis algorithms. 
     - Conducted in-depth research to assess the feasibility of integrating re-implemented methods into marketing products. 
