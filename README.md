@@ -17,9 +17,13 @@ During my spare time, I also participate in several open source communities such
 
 ### Experiences
 
+- **Consultant & Professional Proofreader | Youth News, Public Television Service Foundation | Jul 2024 - Present**
+    - Professional proofreading on technology and artificial intelligence related content.
+    - Program planning on technology-related in-depth reports. 
 - **Committee Member | Youth Advisory Committee, K-12 Education Administration | Ministry of Education | Apr 2024 - Present**
     - Focusing on systematic status and issues of special education, especially gifted and talented education system.
-    - Survey on student self-organizing scenarios and communities to analyze and improve the environment on democratization of education. 
+    - Survey on student self-organizing scenarios and communities to analyze and improve the environment on democratization of education.
+    - Legislation research on educational digital rights, in terms of privacy, data governance, and accessibility. 
 - **Scientist Intern | Appier Inc. | Nov 2023 - Present**
     - Re-implementation of generative AI methods and imaging analysis algorithms. 
     - Conducted in-depth research to assess the feasibility of integrating re-implemented methods into marketing products. 
@@ -32,18 +36,17 @@ During my spare time, I also participate in several open source communities such
     - Actively participated in research projects upon developing advanced algorithms for medical image analysis, specializing in neuroimaging scans. 
     -  Conducted experiments to optimize machine learning and deep learning models, notably improving accuracy and efficiency through techniques such as hyperparameter tuning, model design, and data augmentation. 
     - Proficiently preprocessed and augmented medical imaging datasets to bolster model robustness, employing methods such as image normalization, noise reduction, and data augmentation to ensure high-quality input data. 
-- **Founder & Data Engineer | [Taiwan Open Education Develop Unit](https://toedu.g0v.tw) | Jun 2021 - Present**
-    - Led a team to successfully develop and launch the CourseAPI platform, streamlining course information and accessibility.
-    - Developed efficient data scraper tools, automating data collection and analysis processes.
-    - Conducted regular maintenance to ensure the CourseAPI platform's optimal performance and data accuracy.
-    - Conducted in-depth analysis of issues related to open educational resources and open source education.
+- **Consultant & Lecturer | National Taiwan University Artificial Intelligence Research Club | Jan 2024 - Jun 2024**
+    - Guided several mentees to build generative AI project.
+    - Professional mentoring on computer vision approach optimization.
  
 ### Voluntary Experiences
 
+- Founder & Data Engineer | Taiwan Open Education Develop Unit | Jun 2024 - Present**
 - Lecturer & Community Volunteer | g0v Taiwan Community | May 2021 - Present
-- General Coordinator & Co-founder | CISCON (Computer Informatics Students Conference) | April 2023 - Present
-- Agenda Team | HITCON (Hacks in Taiwan Conference) | 2023
-- Coordinator | COSCUP Open Education Track | 2023
+- General Coordinator & Co-founder | CISCON (Computer Informatics Students Conference) 2023
+- Agenda Team | HITCON (Hacks in Taiwan Conference) | 2023 - 2024
+- General Coordinator | COSCUP Open Education Track | 2023 - 2024
 - Conference Streaming | COSCUP (Conference for Open Source Coders, Users & Promoters) | 2021
 - Podcast Producer | Init KaoBei Engineer | October 2021 - May 2022
 
@@ -51,7 +54,9 @@ During my spare time, I also participate in several open source communities such
 
 - Taipei Digital Experimental High School (T-school) | 2023-2026 (expected)
     - Previous Semester Overall GPA: 4.3 / 4.3
-    - Student Representative of Student Union
+    - Chairman of Student Union
+    - Public Relations Manager of Art and Literature Club
+    - Lecturer & Education Manager of Photography Club
 - New Taipei Municipal Yonghe Junior High School | 2020-2023
     - Graduation Overall GPA: 4.0 / 4.3
     - Valedictorian of 53rd graduates with highest achievement.
