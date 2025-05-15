@@ -1,12 +1,12 @@
 ### Hi there 👋
 ---
-I am Ted Lu, a 16-year-old student with high interest in data science, medical science and neuroscience located in New Taipei, Taiwan. I am looking for opportunities to explore more on medical informatics and computer vision. 
+I am Ted Lu, a 17-year-old student and researcher based in Taipei, Taiwan, with a strong focus on data science, medical informatics, and neuroscience. My academic and professional interests revolve around advancing methodologies in medical image analysis and exploring the intersection of digital governance, policy advocacy, and technology. I actively seek opportunities to contribute to fields such as medical informatics and computer vision.
 
-With the high ability of self learning, I've practiced several skills and abilities among the field of medical informatics., and participated in several research projects. My recent studies focus on methodology development of medical image analysis and imaging studies of neurodevelopmental and neurodegenerative disorders, while I’ve worked with different imaging modalities including MRI, CT, EEG, X-ray, OCT, etc., and diseases such as glioma, multiple sclerosis, schizophrenia, Alzheimer’s, Huntington’s and more. 
+Through self-directed learning and hands-on research, I have cultivated expertise in medical informatics and participated in projects involving diverse imaging modalities, including MRI, CT, EEG, X-ray, and OCT. My recent work has centered on imaging studies of neurodevelopmental and neurodegenerative disorders such as glioma, multiple sclerosis, schizophrenia, Alzheimer’s, and Huntington’s disease. These experiences have honed my skills in Python, data processing frameworks, and imaging analytics.
 
-I have quite a few experiences in hardware development, including sensor engineering and wireless communication. My studies during 2018-2020 were focused on ESP8266/ESP32 communication framework enhancement, edge computing system optimization, etc. The experience enables me with the ability to use various programming languages and systems such as Python, C/C++, JavaScript, Linux and DBMS. 
+Beyond the medical domain, I bring technical proficiency in hardware development, including sensor engineering and wireless communication. From 2018 to 2020, I focused on enhancing ESP8266/ESP32 communication frameworks and optimizing edge computing systems. This background has equipped me with robust programming skills in Python, C/C++, JavaScript, Linux, and database management systems.
 
-During my spare time, I also participate in several open source communities such as g0v.tw, CourseAPI, Sch001, etc., where I bring the ability of issue analysis and project management into various open source projects.
+In addition to technical pursuits, I am deeply engaged in digital governance and policy advocacy, focusing on issues such as open data, digital rights, and internet governance. I have worked with organizations like the Open Culture Foundation and contributed to national policy discussions as a Committee Member of the Youth Advisory Committee for the K-12 Education Administration, addressing topics like educational privacy and inclusion. I also actively participate in open-source communities such as g0v.tw, where I apply my skills in issue analysis and project management to collaborative initiatives.
 
 ### Languages
 
@@ -17,17 +17,13 @@ During my spare time, I also participate in several open source communities such
 
 ### Experiences
 
-- **Consultant & Professional Proofreader | Youth News, Public Television Service Foundation | Jul 2024 - Present**
-    - Professional proofreading on technology and artificial intelligence related content.
-    - Program planning on technology-related in-depth reports. 
-- **Committee Member | Youth Advisory Committee, K-12 Education Administration | Ministry of Education | Apr 2024 - Present**
-    - Focusing on systematic status and issues of special education, especially gifted and talented education system.
-    - Survey on student self-organizing scenarios and communities to analyze and improve the environment on democratization of education.
-    - Legislation research on educational digital rights, in terms of privacy, data governance, and accessibility. 
+- **Committee Member | Digital & AI Governance Subcommittee, Youth Advisory Committee, Taipei City Government | Jan 2025 - Present**
+    - Conducted research on digital services regulation for urban development.
+    - Provided suggestions on AI & data governance policies to departments of city government. 
 - **Scientist Intern | Appier Inc. | Nov 2023 - Present**
-    - Re-implementation of generative AI methods and imaging analysis algorithms. 
-    - Conducted in-depth research to assess the feasibility of integrating re-implemented methods into marketing products. 
-    - Collaborate with data scientist team to develop proof-of-concept demos, demonstrating the potential of the re-implemented methods as valuable additions to the company's marketing services.
+    - Re-implemented generative AI methods and imaging analysis algorithms, conducting feasibility research for integration into marketing products.
+    - Collaborated with the data scientist team to create proof-of-concept demos, showcasing the potential of advanced AI methods in enhancing marketing services.
+    - Transitioned to supporting campaign algorithms and optimizing model training to improve system performance and effectiveness post-Oct. 2024.
 - **Research Student | Institute of Biomedical Science (IBMS), Academia Sinica | Jun 2023 - Present**
     - Proficiently conducted data science and in-depth analysis of magnetic resonance imaging (MRI) data, with a specific focus on brain connectome research.
     - Development of cutting-edge analysis software, and cloud computing infrastructure deployment to optimize data storage and accessibility.
@@ -35,14 +31,23 @@ During my spare time, I also participate in several open source communities such
 - **Research Assistant | Department of Computer Science & Information Engineering, National Taiwan University (NTU CSIE) | Sep 2022 - Present**
     - Actively participated in research projects upon developing advanced algorithms for medical image analysis, specializing in neuroimaging scans. 
     -  Conducted experiments to optimize machine learning and deep learning models, notably improving accuracy and efficiency through techniques such as hyperparameter tuning, model design, and data augmentation. 
-    - Proficiently preprocessed and augmented medical imaging datasets to bolster model robustness, employing methods such as image normalization, noise reduction, and data augmentation to ensure high-quality input data. 
+    - Proficiently preprocessed and augmented medical imaging datasets to bolster model robustness, employing methods such as image normalization, noise reduction, and data augmentation to ensure high-quality input data.
+- **Committee Member | Youth Advisory Committee, K-12 Education Administration | Ministry of Education | Apr 2024 - Mar 2025**
+    - Conducted research on education legislation, focusing on digital rights, educational privacy, and inclusion in education.
+    - Provided policy consulting to support the development and implementation of equitable and innovative educational policies.
+    - Advocated for legislative advancements to strengthen privacy protections and promote inclusive education initiatives.
+- **Consultant & Professional Proofreader | Youth News, Public Television Service Foundation | Jul 2024 - Oct 2024**
+    - Conducted technical content reviews and provided strategic recommendations.
+    - Offered program planning guidance, focusing on in-depth analysis of technical methodologies and ethical considerations.
 - **Consultant & Lecturer | National Taiwan University Artificial Intelligence Research Club | Jan 2024 - Jun 2024**
     - Guided several mentees to build generative AI project.
     - Professional mentoring on computer vision approach optimization.
  
 ### Voluntary Experiences
 
-- Founder & Data Engineer | Taiwan Open Education Develop Unit | Jun 2024 - Present**
+- Tech Contributor | Digital Law Taskforce, Judicial Reform Foundation | Oct 2024 - Present
+- Founder & Data Engineer | Taiwan Open Education Develop Unit | Jun 2024 - Present
+- Volunteer | Open Culture Foundation | May 2022 - Present
 - Lecturer & Community Volunteer | g0v Taiwan Community | May 2021 - Present
 - General Coordinator & Co-founder | CISCON (Computer Informatics Students Conference) 2023
 - Agenda Team | HITCON (Hacks in Taiwan Conference) | 2023 - 2024
