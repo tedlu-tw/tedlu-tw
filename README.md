@@ -15,15 +15,8 @@ In addition to technical pursuits, I am deeply engaged in digital governance and
 - English: Professional working proficiency (TOEIC 800, 2019)
 - Spanish: Limited working proficiency
 
-### Experiences
+### Research Experiences
 
-- **Committee Member | Digital & AI Governance Subcommittee, Youth Advisory Committee, Taipei City Government | Jan 2025 - Present**
-    - Conducted research on digital services regulation for urban development.
-    - Provided suggestions on AI & data governance policies to departments of city government. 
-- **Scientist Intern | Appier Inc. | Nov 2023 - Present**
-    - Re-implemented generative AI methods and imaging analysis algorithms, conducting feasibility research for integration into marketing products.
-    - Collaborated with the data scientist team to create proof-of-concept demos, showcasing the potential of advanced AI methods in enhancing marketing services.
-    - Transitioned to supporting campaign algorithms and optimizing model training to improve system performance and effectiveness post-Oct. 2024.
 - **Research Student | Institute of Biomedical Science (IBMS), Academia Sinica | Jun 2023 - Present**
     - Proficiently conducted data science and in-depth analysis of magnetic resonance imaging (MRI) data, with a specific focus on brain connectome research.
     - Development of cutting-edge analysis software, and cloud computing infrastructure deployment to optimize data storage and accessibility.
@@ -32,6 +25,20 @@ In addition to technical pursuits, I am deeply engaged in digital governance and
     - Actively participated in research projects upon developing advanced algorithms for medical image analysis, specializing in neuroimaging scans. 
     -  Conducted experiments to optimize machine learning and deep learning models, notably improving accuracy and efficiency through techniques such as hyperparameter tuning, model design, and data augmentation. 
     - Proficiently preprocessed and augmented medical imaging datasets to bolster model robustness, employing methods such as image normalization, noise reduction, and data augmentation to ensure high-quality input data.
+
+### Working Experiences
+
+- **Design Program Associate Manager | AIOTEK PTE. LTD. | Jun 2025 - Present**
+    - AI algorithm development for edge services, emphasizing lightweight optimization and scalability.
+    - Contributing to modular AI engine designs for seamless updates and cross-platform compatibility.
+    - Enhancing AIoT solutions through advanced research in secure real-time processing and model miniaturization.
+- **Committee Member | Digital & AI Governance Subcommittee, Youth Advisory Committee, Taipei City Government | Jan 2025 - Present**
+    - Conducted research on digital services regulation for urban development.
+    - Provided suggestions on AI & data governance policies to departments of city government. 
+- **Scientist Intern | Appier Inc. | Nov 2023 - May 2025**
+    - Re-implemented generative AI methods and imaging analysis algorithms, conducting feasibility research for integration into marketing products.
+    - Collaborated with the data scientist team to create proof-of-concept demos, showcasing the potential of advanced AI methods in enhancing marketing services.
+    - Transitioned to supporting campaign algorithms and optimizing model training to improve system performance and effectiveness post-Oct. 2024.
 - **Committee Member | Youth Advisory Committee, K-12 Education Administration | Ministry of Education | Apr 2024 - Mar 2025**
     - Conducted research on education legislation, focusing on digital rights, educational privacy, and inclusion in education.
     - Provided policy consulting to support the development and implementation of equitable and innovative educational policies.
