@@ -77,11 +77,8 @@ In addition to technical pursuits, I am deeply engaged in digital governance and
 
 ### Contact
 
-- Website: [https://tedlu-tw.github.io](https://tedlu-tw.github.io)
-- Email: [ted.lu.tw@gmail.com](mailto:ted.lu.tw@gmail.com)
+- Website: [https://tedlu.tw](https://tedlu.tw)
+- Email: [hi@tedlu.tw](mailto:hi@tedlu.tw)
 - LinkedIn: [@hao-tian-lu](https://www.linkedin.com/in/hao-tian-lu/)
 - Instagram: [@ted.lu.tw](https://instagram.com/ted.lu.tw)
 - Twitter: [@ted_lu_tw](https://twitter.com/ted_lu_tw)
-
-### Blog
-You can find my articles in [my Medium page](https://ted-lu.medium.com/). 
